@@ -165,7 +165,9 @@ h1{
     }
 }
 @media screen and (max-width:380px) {
-   
+    body{
+        height: auto;
+    }
     .login-box{
         width: 300px;
         height: 400px
